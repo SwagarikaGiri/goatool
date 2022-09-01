@@ -20,3 +20,4 @@ gene2go
 # Sphinx working directories
 _static
 _templates
+./notebooks/data/Swissprot_filtered_ver4.tab
